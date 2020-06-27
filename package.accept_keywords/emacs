@@ -1,0 +1,2 @@
+# package.accept_keywords# required by app-editors/emacs:27-vcs (argument)
+=app-editors/emacs-27.0.91 ~amd64
