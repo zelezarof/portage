@@ -1,1 +1,1 @@
->=app-editors/emacs-27.0.91 cairo dynamic-loading gif gpm gtk gzip-el harfbuzz imagemagick jpeg json lcms png sound svg tiff toolkit-scroll-bars
+>=app-editors/emacs-26.3-r1 cairo dynamic-loading gif gpm gtk gzip-el harfbuzz imagemagick jpeg json lcms png sound svg tiff toolkit-scroll-bars
