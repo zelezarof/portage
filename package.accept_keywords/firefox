@@ -1,6 +1,0 @@
-# required by =www-client/firefox-77.0.1 (argument)
-=www-client/firefox-77.0.1 ~amd64
-# required by www-client/firefox-77.0.1::gentoo[system-libvpx]
-# required by @selected
-# required by @world (argument)
-=media-libs/libvpx-1.8.2 ~amd64
