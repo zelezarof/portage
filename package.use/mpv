@@ -1,3 +1,4 @@
-# package.use# required by media-video/mpv-0.32.0-r1::gentoo
+# package.use
+# required by media-video/mpv-0.32.0-r1::gentoo
 # required by mpv (argument)
 >=dev-python/docutils-0.16 -python_targets_python2_7

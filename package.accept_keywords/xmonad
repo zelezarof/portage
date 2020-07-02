@@ -1,134 +1,77 @@
-# package.accept_keywords# required by dev-haskell/mtl-2.2.1-r1::gentoo
-# required by x11-wm/xmonad-0.15::gentoo
-# required by x11-wm/xmonad-contrib-0.15::gentoo
-# required by xmonad-contrib (argument)
-=dev-haskell/transformers-0.5.2.0 ~amd64
-# required by x11-wm/xmonad-0.15::gentoo
-# required by x11-wm/xmonad-contrib-0.15::gentoo
-# required by xmonad-contrib (argument)
-=dev-lang/ghc-8.0.2 ~amd64
+# package.accept_keywords
 # required by dev-haskell/data-default-0.5.3::gentoo
-# required by x11-wm/xmonad-0.15::gentoo
-# required by x11-wm/xmonad-contrib-0.15::gentoo
-# required by xmonad-contrib (argument)
-=dev-haskell/data-default-instances-base-0.0.1 ~amd64
-# required by x11-wm/xmonad-contrib-0.15::gentoo[xft]
-# required by xmonad-contrib (argument)
-=dev-haskell/x11-xft-0.3.1-r1 ~amd64
-# required by x11-wm/xmonad-contrib-0.15::gentoo
-# required by xmonad-contrib (argument)
-=dev-haskell/semigroups-0.18.2 ~amd64
-# required by x11-wm/xmonad-0.15::gentoo
-# required by x11-wm/xmonad-contrib-0.15::gentoo
-# required by xmonad-contrib (argument)
-=dev-haskell/extensible-exceptions-0.1.1.4 ~amd64
-# required by x11-wm/xmonad-contrib-0.15::gentoo
-# required by xmonad-contrib (argument)
-=dev-haskell/random-1.1 ~amd64
-# required by dev-haskell/data-default-instances-dlist-0.0.1::gentoo
-# required by dev-haskell/data-default-0.5.3::gentoo
-# required by x11-wm/xmonad-0.15::gentoo
-# required by x11-wm/xmonad-contrib-0.15::gentoo
-# required by xmonad-contrib (argument)
-=dev-haskell/dlist-0.8.0.2 ~amd64
-# required by x11-wm/xmonad-contrib-0.15::gentoo
-# required by xmonad-contrib (argument)
-=dev-haskell/mtl-2.2.1-r1 ~amd64
-# required by dev-haskell/semigroups-0.18.2::gentoo
-# required by x11-wm/xmonad-contrib-0.15::gentoo
-# required by xmonad-contrib (argument)
-=dev-haskell/tagged-0.8.6 ~amd64
-# required by x11-wm/xmonad-0.15::gentoo
-# required by x11-wm/xmonad-contrib-0.15::gentoo
-# required by xmonad-contrib (argument)
-=dev-haskell/x11-1.8-r1 ~amd64
-# required by dev-haskell/data-default-0.5.3::gentoo
-# required by x11-wm/xmonad-0.15::gentoo
-# required by x11-wm/xmonad-contrib-0.15::gentoo
-# required by xmonad-contrib (argument)
-=dev-haskell/data-default-instances-old-locale-0.0.1 ~amd64
-# required by dev-haskell/old-time-1.1.0.3-r1::gentoo
-# required by x11-wm/xmonad-contrib-0.15::gentoo
-# required by xmonad-contrib (argument)
-=dev-haskell/old-locale-1.0.0.7 ~amd64
 # required by dev-haskell/x11-1.8-r1::gentoo
 # required by x11-wm/xmonad-0.15::gentoo
-# required by x11-wm/xmonad-contrib-0.15::gentoo
-# required by xmonad-contrib (argument)
-=dev-haskell/data-default-0.5.3 ~amd64
-# required by x11-wm/xmonad-0.15::gentoo
-# required by x11-wm/xmonad-contrib-0.15::gentoo
-# required by xmonad-contrib (argument)
-=dev-haskell/cabal-1.24.2.0 ~amd64
+# required by xmonad (argument)
+=dev-haskell/data-default-instances-old-locale-0.0.1 ~amd64
 # required by dev-haskell/data-default-0.5.3::gentoo
+# required by dev-haskell/x11-1.8-r1::gentoo
 # required by x11-wm/xmonad-0.15::gentoo
-# required by x11-wm/xmonad-contrib-0.15::gentoo
-# required by xmonad-contrib (argument)
-=dev-haskell/data-default-instances-dlist-0.0.1 ~amd64
-# required by x11-wm/xmonad-contrib-0.15::gentoo
-# required by xmonad-contrib (argument)
+# required by xmonad (argument)
+=dev-haskell/data-default-class-0.0.1 ~amd64
+# required by dev-haskell/data-default-instances-old-locale-0.0.1::gentoo
+# required by dev-haskell/data-default-0.5.3::gentoo
+# required by dev-haskell/x11-1.8-r1::gentoo
+# required by x11-wm/xmonad-0.15::gentoo
+# required by xmonad (argument)
+=dev-haskell/old-locale-1.0.0.7 ~amd64
+# required by xmonad (argument)
 =x11-wm/xmonad-0.15 ~amd64
 # required by x11-wm/xmonad-0.15::gentoo
-# required by x11-wm/xmonad-contrib-0.15::gentoo
-# required by xmonad-contrib (argument)
-=dev-haskell/setlocale-1.0.0.9 ~amd64
-# required by x11-wm/xmonad-contrib-0.15::gentoo
-# required by xmonad-contrib (argument)
-=dev-haskell/old-time-1.1.0.3-r1 ~amd64
-# required by dev-haskell/semigroups-0.18.2::gentoo
-# required by x11-wm/xmonad-contrib-0.15::gentoo
-# required by xmonad-contrib (argument)
-=dev-haskell/hashable-1.2.7.0 ~amd64
-# required by dev-haskell/semigroups-0.18.2::gentoo
-# required by x11-wm/xmonad-contrib-0.15::gentoo
-# required by xmonad-contrib (argument)
-=dev-haskell/nats-1 ~amd64
-# required by xmonad-contrib (argument)
-=x11-wm/xmonad-contrib-0.15 ~amd64
-# required by dev-haskell/tagged-0.8.6::gentoo
-# required by dev-haskell/semigroups-0.18.2::gentoo
-# required by x11-wm/xmonad-contrib-0.15::gentoo
-# required by xmonad-contrib (argument)
-=dev-haskell/transformers-compat-0.5.1.4 ~amd64
-# required by dev-haskell/hashable-1.2.7.0::gentoo
-# required by dev-haskell/nats-1::gentoo[hashable]
-# required by dev-haskell/semigroups-0.18.2::gentoo
-# required by x11-wm/xmonad-contrib-0.15::gentoo
-# required by xmonad-contrib (argument)
-=dev-haskell/text-1.2.2.1 ~amd64
-# required by dev-haskell/semigroups-0.18.2::gentoo
-# required by x11-wm/xmonad-contrib-0.15::gentoo
-# required by xmonad-contrib (argument)
-=dev-haskell/unordered-containers-0.2.10.0 ~amd64
-# required by dev-haskell/text-1.2.2.1::gentoo
-# required by dev-haskell/hashable-1.2.7.0::gentoo
-# required by dev-haskell/nats-1::gentoo[hashable]
-# required by dev-haskell/semigroups-0.18.2::gentoo
-# required by x11-wm/xmonad-contrib-0.15::gentoo
-# required by xmonad-contrib (argument)
-=dev-haskell/binary-0.8.3.0 ~amd64
+# required by xmonad (argument)
+=dev-haskell/cabal-1.24.2.0 ~amd64
 # required by dev-lang/ghc-8.0.2::gentoo[-ghcbootstrap]
-# required by dev-haskell/setlocale-1.0.0.9::gentoo
+# required by dev-haskell/data-default-class-0.0.1::gentoo
+# required by dev-haskell/data-default-instances-base-0.0.1::gentoo
+# required by dev-haskell/data-default-0.5.3::gentoo
+# required by dev-haskell/x11-1.8-r1::gentoo
 # required by x11-wm/xmonad-0.15::gentoo
-# required by x11-wm/xmonad-contrib-0.15::gentoo
-# required by xmonad-contrib (argument)
+# required by xmonad (argument)
 =app-admin/haskell-updater-1.3.2 ~amd64
+# required by x11-wm/xmonad-0.15::gentoo
+# required by xmonad (argument)
+=dev-haskell/mtl-2.2.1-r1 ~amd64
+# required by dev-haskell/mtl-2.2.1-r1::gentoo
+# required by x11-wm/xmonad-0.15::gentoo
+# required by xmonad (argument)
+=dev-haskell/transformers-0.5.2.0 ~amd64
 # required by dev-haskell/data-default-instances-dlist-0.0.1::gentoo
 # required by dev-haskell/data-default-0.5.3::gentoo
+# required by dev-haskell/x11-1.8-r1::gentoo
 # required by x11-wm/xmonad-0.15::gentoo
-# required by x11-wm/xmonad-contrib-0.15::gentoo
-# required by xmonad-contrib (argument)
-=dev-haskell/data-default-class-0.0.1 ~amd64
+# required by xmonad (argument)
+=dev-haskell/dlist-0.8.0.2 ~amd64
 # required by dev-haskell/data-default-0.5.3::gentoo
+# required by dev-haskell/x11-1.8-r1::gentoo
 # required by x11-wm/xmonad-0.15::gentoo
-# required by x11-wm/xmonad-contrib-0.15::gentoo
-# required by xmonad-contrib (argument)
-=dev-haskell/data-default-instances-containers-0.0.1 ~amd64
-# required by dev-haskell/semigroups-0.18.2::gentoo
-# required by x11-wm/xmonad-contrib-0.15::gentoo
-# required by xmonad-contrib (argument)
-=dev-haskell/bytestring-builder-0.10.8.2.0 ~amd64
+# required by xmonad (argument)
+=dev-haskell/data-default-instances-base-0.0.1 ~amd64
 # required by x11-wm/xmonad-0.15::gentoo
-# required by x11-wm/xmonad-contrib-0.15::gentoo
-# required by xmonad-contrib (argument)
+# required by xmonad (argument)
+=dev-haskell/extensible-exceptions-0.1.1.4 ~amd64
+# required by dev-haskell/x11-1.8-r1::gentoo
+# required by x11-wm/xmonad-0.15::gentoo
+# required by xmonad (argument)
+=dev-haskell/data-default-0.5.3 ~amd64
+# required by x11-wm/xmonad-0.15::gentoo
+# required by xmonad (argument)
 =dev-haskell/utf8-string-1.0.1.1 ~amd64
+# required by dev-haskell/data-default-0.5.3::gentoo
+# required by dev-haskell/x11-1.8-r1::gentoo
+# required by x11-wm/xmonad-0.15::gentoo
+# required by xmonad (argument)
+=dev-haskell/data-default-instances-containers-0.0.1 ~amd64
+# required by x11-wm/xmonad-0.15::gentoo
+# required by xmonad (argument)
+=dev-haskell/setlocale-1.0.0.9 ~amd64
+# required by dev-haskell/data-default-0.5.3::gentoo
+# required by dev-haskell/x11-1.8-r1::gentoo
+# required by x11-wm/xmonad-0.15::gentoo
+# required by xmonad (argument)
+=dev-haskell/data-default-instances-dlist-0.0.1 ~amd64
+# required by x11-wm/xmonad-0.15::gentoo
+# required by xmonad (argument)
+=dev-haskell/x11-1.8-r1 ~amd64
+# required by x11-wm/xmonad-0.15::gentoo
+# required by xmonad (argument)
+=dev-lang/ghc-8.0.2 ~amd64

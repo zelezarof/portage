@@ -1,9 +1,0 @@
-# package.use# required by dev-lang/spidermonkey-60.5.2_p0-r4::gentoo
-# required by sys-auth/polkit-0.116-r1::gentoo
-# required by sys-auth/elogind-243.7::gentoo[policykit]
-# required by sys-apps/dbus-1.12.18::gentoo[elogind]
-# required by gnome-base/dconf-0.34.0::gentoo
-# required by dev-libs/glib-2.62.6::gentoo[dbus]
-# required by dev-util/desktop-file-utils-0.24::gentoo
-# required by dev-libs/gobject-introspection-1.62.0-r1::gentoo
->=dev-lang/python-2.7.18:2.7 sqlite
