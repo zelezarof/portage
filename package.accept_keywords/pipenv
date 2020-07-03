@@ -1,0 +1,3 @@
+# package.accept_keywords
+# required by pipenv (argument)
+=dev-python/pipenv-2020.4.1_beta1 ~amd64

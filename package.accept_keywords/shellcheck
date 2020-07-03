@@ -1,0 +1,60 @@
+# package.accept_keywords
+# required by dev-haskell/scientific-0.3.4.9::gentoo
+# required by dev-haskell/attoparsec-0.13.2.3::gentoo
+# required by dev-haskell/aeson-1.0.2.1::gentoo
+# required by dev-util/shellcheck-0.7.1::gentoo
+# required by shellcheck (argument)
+=dev-haskell/vector-0.11.0.0 ~amd64
+# required by dev-util/shellcheck-0.7.1::gentoo
+# required by shellcheck (argument)
+=dev-haskell/diff-0.3.4 ~amd64
+# required by dev-util/shellcheck-0.7.1::gentoo
+# required by shellcheck (argument)
+=dev-haskell/parsec-3.1.11 ~amd64
+# required by dev-haskell/aeson-1.0.2.1::gentoo
+# required by dev-util/shellcheck-0.7.1::gentoo
+# required by shellcheck (argument)
+=dev-haskell/attoparsec-0.13.2.3 ~amd64
+# required by dev-haskell/attoparsec-0.13.2.3::gentoo
+# required by dev-haskell/aeson-1.0.2.1::gentoo
+# required by dev-util/shellcheck-0.7.1::gentoo
+# required by shellcheck (argument)
+=dev-haskell/fail-4.9.0.0 ~amd64
+# required by dev-util/shellcheck-0.7.1::gentoo
+# required by shellcheck (argument)
+=dev-haskell/aeson-1.0.2.1 ~amd64
+# required by dev-haskell/regex-tdfa-1.2.2::gentoo
+# required by dev-util/shellcheck-0.7.1::gentoo
+# required by shellcheck (argument)
+=dev-haskell/regex-base-0.93.2-r1 ~amd64
+# required by dev-haskell/aeson-1.0.2.1::gentoo
+# required by dev-util/shellcheck-0.7.1::gentoo
+# required by shellcheck (argument)
+=dev-haskell/base-compat-0.9.1 ~amd64
+# required by dev-haskell/aeson-1.0.2.1::gentoo
+# required by dev-util/shellcheck-0.7.1::gentoo
+# required by shellcheck (argument)
+=dev-haskell/scientific-0.3.4.9 ~amd64
+# required by dev-haskell/aeson-1.0.2.1::gentoo
+# required by dev-util/shellcheck-0.7.1::gentoo
+# required by shellcheck (argument)
+=dev-haskell/time-locale-compat-0.1.1.5 ~amd64
+# required by dev-util/shellcheck-0.7.1::gentoo
+# required by shellcheck (argument)
+=dev-haskell/quickcheck-2.9.2 ~amd64
+# required by shellcheck (argument)
+=dev-util/shellcheck-0.7.1 ~amd64
+# required by dev-haskell/vector-0.11.0.0::gentoo
+# required by dev-haskell/scientific-0.3.4.9::gentoo
+# required by dev-haskell/attoparsec-0.13.2.3::gentoo
+# required by dev-haskell/aeson-1.0.2.1::gentoo
+# required by dev-util/shellcheck-0.7.1::gentoo
+# required by shellcheck (argument)
+=dev-haskell/primitive-0.6.1.0-r1 ~amd64
+# required by dev-util/shellcheck-0.7.1::gentoo
+# required by shellcheck (argument)
+=dev-haskell/regex-tdfa-1.2.2 ~amd64
+# required by dev-haskell/quickcheck-2.9.2::gentoo
+# required by dev-util/shellcheck-0.7.1::gentoo
+# required by shellcheck (argument)
+=dev-haskell/tf-random-0.5 ~amd64
