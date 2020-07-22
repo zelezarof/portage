@@ -1,15 +1,4 @@
-www-client/firefox ~amd64
-
-# package.accept_keywords
-# required by www-client/firefox-78.0.1::gentoo[system-libvpx]
-# required by firefox (argument)
-=media-libs/libvpx-1.8.2 ~amd64
-
-# required by www-client/firefox-78.0.1::gentoo
-# required by firefox (argument)
-=dev-libs/nss-3.54-r1 ~amd64
-
-# required by dev-libs/nss-3.54-r1::gentoo
-# required by www-client/firefox-78.0.1::gentoo
-# required by firefox (argument)
 =dev-libs/nspr-4.26 ~amd64
+=dev-libs/nss-3.54-r1 ~amd64
+=media-libs/libvpx-1.8.2 ~amd64
+www-client/firefox ~amd64

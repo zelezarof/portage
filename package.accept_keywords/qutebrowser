@@ -1,9 +1,0 @@
-# package.accept_keywords
-# required by qutebrowser (argument)
-=www-client/qutebrowser-1.12.0 ~amd64
-# required by www-client/qutebrowser-1.12.0::gentoo
-# required by qutebrowser (argument)
-=dev-python/jinja-2.11.2 ~amd64
-# required by www-client/qutebrowser-1.12.0::gentoo
-# required by qutebrowser (argument)
-=dev-python/pypeg2-2.15.2-r1 ~amd64

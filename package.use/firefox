@@ -1,12 +1,1 @@
->=www-client/firefox-78.0.1 clang geckodriver gmp-autoupdate lto openh264 pgo
-
-# required by www-client/firefox-78.0.1::gentoo[system-libvpx]
-# required by firefox (argument)
 >=media-libs/libvpx-1.8.2 postproc
-
-# required by www-client/firefox-78.0.1::gentoo[pgo]
-# required by firefox (argument)
->=x11-base/xorg-server-1.20.8 xvfb
-
-# required by sys-devel/llvmgold-10::gentoo
->=sys-devel/llvm-10.0.0 gold
