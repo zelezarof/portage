@@ -1,13 +1,13 @@
-=dev-haskell/binary-0.8.3.0 ~amd64
-=dev-haskell/bytestring-builder-0.10.8.2.0 ~amd64
+
+=dev-haskell/binary-0.8.7.0 ~amd64
 =dev-haskell/hashable-1.2.7.0 ~amd64
-=dev-haskell/nats-1 ~amd64
+=dev-haskell/nats-1.1.2 ~amd64
 =dev-haskell/old-time-1.1.0.3-r1 ~amd64
 =dev-haskell/random-1.1 ~amd64
-=dev-haskell/semigroups-0.18.2 ~amd64
+=dev-haskell/semigroups-0.18.5 ~amd64
 =dev-haskell/tagged-0.8.6 ~amd64
-=dev-haskell/text-1.2.2.1 ~amd64
-=dev-haskell/transformers-compat-0.5.1.4 ~amd64
-=dev-haskell/unordered-containers-0.2.10.0 ~amd64
+=dev-haskell/text-1.2.4.0 ~amd64
+=dev-haskell/transformers-compat-0.6.5 ~amd64
+=dev-haskell/unordered-containers-0.2.12.0 ~amd64
 =dev-haskell/x11-xft-0.3.1-r1 ~amd64
-=x11-wm/xmonad-contrib-0.15 ~amd64
+=x11-wm/xmonad-contrib-0.16 ~amd64
