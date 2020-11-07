@@ -1,4 +1,4 @@
-=dev-libs/nspr-4.26 ~amd64
-=dev-libs/nss-3.54-r1 ~amd64
-=media-libs/libvpx-1.8.2 ~amd64
+dev-libs/nspr ~amd64
+dev-libs/nss ~amd64
+media-libs/libvpx ~amd64
 www-client/firefox ~amd64
